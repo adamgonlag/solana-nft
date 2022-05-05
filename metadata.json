@@ -1,0 +1,14 @@
+{
+  "name": "PugLife",
+  "description": "Pugs are great.",
+  "image": "https://ipfs.io/ipfs/bafkreie7rmuzotu5hipajtqnvsmjdbqobofu7rharabssenwnv3vhfzhwq",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafkreie7rmuzotu5hipajtqnvsmjdbqobofu7rharabssenwnv3vhfzhwq",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
